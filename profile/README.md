@@ -5,7 +5,7 @@
 - **[DIXX](https://github.com/DIXXOfficial)**: Reproductor de música multiplataforma con enfoque en experiencia de usuario.  
 
 ### 🎮 Gaming & eSports
-- **[Obsidian Studio](https://github.com/ObsidianStudioOfficial)**: Equipo de desarrollo de contenido para videojuegos, especializado en *Minecraft* (plugins, mods, mapas y experiencias interactivas).  
+- **[Blossom Studio](https://github.com/BlossomStudioOfficial)**: Equipo de desarrollo de contenido para videojuegos, especializado en *Minecraft* (plugins, mods, mapas y experiencias interactivas).  
 - **[Bad Habits](https://github.com/BadHabitsGG)**: Equipo profesional de *eSports*   
 
 ### 📬 Contacto
