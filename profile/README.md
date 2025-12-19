@@ -7,13 +7,16 @@
 - **[ArkanOS](https://github.com/Arkan-OS)**
 - **[ZyraOS](https://github.com/ZyraOS)**
 
-### 🎮 Gaming 
+### 🌸 Blossom (Gaming - Minecraft) 
 - **[Blossom Studio](https://github.com/BlossomStudioDeveloping)**: Equipo especializado en diseñar eventos épicos dentro de Minecraft, creando experiencias únicas y memorables para streamers y sus comunidades.
 - **[Blossom Network](https://github.com/BlossomStudioNetwork)** 
 - **[Blossom Hosting](https://github.com/BlossomHosting)**
 
+### Roleplay (GTA V)
+- **[Bad Habits](https://github.com/NebulaCoree)**
+
 ### 🎮 Esports
-- **[Bad Habits](https://github.com/BadHabitsGG)**: Equipo profesional de *eSports*   
+- **[Bad Habits](https://github.com/BadHabitsGG)**: Equipo profesional de *esports*   
 
 ### 📬 Contacto
 ¿Interesado en colaboraciones, patrocinios o consultas técnicas?  
