@@ -12,11 +12,14 @@
 - **[Blossom Network](https://github.com/BlossomStudioNetwork)** 
 - **[Blossom Hosting](https://github.com/BlossomHosting)**
 
-### Roleplay (GTA V)
+### ☄️ Roleplay (GTA V)
 - **[Bad Habits](https://github.com/NebulaCoree)**
 
 ### 🎮 Esports
 - **[Bad Habits](https://github.com/BadHabitsGG)**: Equipo profesional de *esports*   
+
+### 🌌 Discord Community 
+- **[Bad Habits](https://github.com/BadHabitsOfficial)**
 
 ### 📬 Contacto
 ¿Interesado en colaboraciones, patrocinios o consultas técnicas?  
